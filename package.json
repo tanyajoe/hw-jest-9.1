@@ -1,0 +1,19 @@
+{
+  "name": "hw-jest-9.1",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanyajoe/hw-jest-9.1.git"
+  },
+  "author": "Tatyana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanyajoe/hw-jest-9.1/issues"
+  },
+  "homepage": "https://github.com/tanyajoe/hw-jest-9.1#readme"
+}
